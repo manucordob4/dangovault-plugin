@@ -1,0 +1,15 @@
+{
+  "name": "dangovault",
+  "$schema": "https://cursor.com/schemas/cursor-plugin/plugin.json",
+  "displayName": "DangoVault",
+  "description": "Search and read your DangoVault library: recipes, places, games, repos, products and more saved from Instagram, TikTok, X, Threads and Bluesky, as structured cards with the original link. Read-only, over OAuth.",
+  "version": "1.0.0",
+  "author": { "name": "DangoVault", "email": "soporte@dangovault.com" },
+  "homepage": "https://dangovault.com/connect-ai-assistant",
+  "repository": "https://github.com/manucordob4/dangovault-plugin",
+  "license": "MIT",
+  "keywords": ["dangovault", "bookmarks", "saved-posts", "instagram", "recipes", "mcp", "oauth", "read-only"],
+  "logo": "assets/dangovault-logo.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}

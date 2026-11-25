@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dangovault": {
+      "type": "http",
+      "url": "https://app.dangovault.com/api/v1/mcp"
+    }
+  }
+}
